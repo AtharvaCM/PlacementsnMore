@@ -1,0 +1,33 @@
+>Tasks
+_____________________________________________________________
+
+We'll follow the agile model for development 
+
+Requirements => Design => Development => Testing => Deployment => Review => goto Testing 
+
+_____________________________________________________________
+
+> General Tasks
+
+1] Gather Requirements and know what prospects are looking for 
+      (Designing a google form and getting ideas)
+
+2] Working on Design , Diagrams and Interface
+    [Many websites are mentioned in the Requirements_ideas file]
+
+3] 
+
+_____________________________________________________________
+
+> Specific Tasks
+  [May take some perspective and a standard reference to start with so well work on General tasks first]
+  [I want you guys to log your points and keep adding]
+
+
+1. Atharva : 
+             
+2. Shubhankar :
+
+3. Kunal :
+
+_____________________________________________________________
